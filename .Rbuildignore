@@ -1,0 +1,8 @@
+^ArvindSt\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^\.github$
+^data-raw$
+^vignettes/.*\.html$
+^_make_data\.R$
+^\.Rhistory$
